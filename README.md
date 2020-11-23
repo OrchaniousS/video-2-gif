@@ -13,8 +13,8 @@ Made with possible with WASM(Web-Assembly) and FFmpeg combined.
 
 ## Main page
 
-![Alt text](/Examples/ss1desktop.png "Desktop Page")
-![Alt text](/Examples/ss1mobile.png "Mobile Page")
+![Alt text](/Examples/ss1desktop.jpg "Desktop Page")
+![Alt text](/Examples/ss1mobile.jpg "Mobile Page")
 
 - Upload videos from any length, ONLY MP4 files.
 - Optional selected time/duration of the gif.
