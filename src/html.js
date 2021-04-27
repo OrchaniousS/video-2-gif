@@ -32,6 +32,10 @@ export default function HTML({
           dangerouslySetInnerHTML={{ __html: body }}
         />
         {postBodyComponents}
+        <script
+          src="https://kit.fontawesome.com/db7abc25cc.js"
+          crossOrigin="anonymous"
+        ></script>
       </body>
     </html>
   )

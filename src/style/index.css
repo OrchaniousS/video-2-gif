@@ -22,6 +22,7 @@ body {
   align-items: center;
   text-align: center;
   max-width: 600px;
+  min-height: 1200px;
   transition: 0.5s all;
   text-shadow: 0 0 0.1rem rgba(0, 0, 0, 0.644);
   color: dodgerblue;
@@ -68,8 +69,8 @@ body {
   flex-direction: column;
 }
 
-button,
-input[type="file"] {
+button
+/* input[type="file"]  */ {
   cursor: pointer;
   font-size: calc(12px + 1vmin);
   border-radius: 10px;
@@ -151,7 +152,7 @@ input:focus {
   }
 
   .App-header {
-    font-size: calc(8px + 4vmin);
+    font-size: calc(7px + 3vmin);
   }
 
   .mainContainer {
@@ -181,7 +182,7 @@ input:focus {
   }
 
   .mainContainer {
-    margin-bottom: 10rem;
+    margin-bottom: 12rem;
   }
 
   input[type="file"] {
@@ -208,7 +209,8 @@ footer {
   right: 0;
   background-color: #333;
   color: #fff;
-  padding: 1.2rem;
+  padding: 0.2rem;
+  margin: auto;
   /* height: 5rem; */
 }
 

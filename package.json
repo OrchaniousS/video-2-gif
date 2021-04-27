@@ -14,23 +14,30 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "@ffmpeg/core": "^0.8.4",
-    "@ffmpeg/ffmpeg": "^0.9.5",
-    "gatsby": "^2.26.1",
-    "gatsby-plugin-manifest": "^2.7.0",
-    "gatsby-plugin-offline": "^3.5.0",
-    "gatsby-plugin-react-helmet": "^3.5.0",
+    "@ffmpeg/core": "^0.8.5",
+    "@ffmpeg/ffmpeg": "^0.9.7",
+    "@types/react": "^17.0.4",
+    "gatsby": "^2.32.12",
+    "gatsby-plugin-manifest": "^2.12.1",
+    "gatsby-plugin-offline": "^3.10.2",
+    "gatsby-plugin-react-helmet": "^3.10.0",
+    "gatsby-source-fontawesome": "0.0.1",
     "prop-types": "^15.7.2",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-helmet": "^6.1.0"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^5.2.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3",
+    "typescript": "^4.2.4"
   },
   "devDependencies": {
+    "@types/node": "^14.14.41",
     "prettier": "2.1.2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/OrchaniousS/video-2-gif"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
